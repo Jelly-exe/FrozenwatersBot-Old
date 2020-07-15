@@ -5,7 +5,7 @@ const fs = require("fs");
 const log = require('leekslazylogger')
 
 const config = require("./config-files/main.json");
-
+const token = require("token.json");
 const swear = require("./config-files/swearList.json");
 
 // function createRegex(word) {
@@ -108,9 +108,9 @@ log.init();
 
 let doIt = true
 client.on('messageReactionAdd', (messageReaction, user) => {
-  
+
   if (messageReaction.message.channel.id !== config.channels.polls)  return;
-    
+
     let users = messageReaction.users.array();
     let reactor = users[users.length - 1];
     if (reactor.bot == true) return;
@@ -136,7 +136,7 @@ client.on('messageReactionRemove', (messageReaction, user) => {
   if (doIt == false) return;
 
   if (messageReaction.message.channel.id !== config.channels.polls) return;
-    
+
     let users = messageReaction.users.array();
     let reactor = users[users.length - 1];
     if (user.bot == true) return;
@@ -181,4 +181,4 @@ fs.readdir("./commands/", (err, files) => {
     log.info("Successfully loaded all commands.")
 });
 
-client.login(`${config.token}`);
+client.login(`${token.token}`);
