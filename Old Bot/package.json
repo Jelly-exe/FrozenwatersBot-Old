@@ -1,0 +1,23 @@
+{
+  "name": "MC-Market_BillyHorler",
+  "version": "1.0.0",
+  "description": "Any description you want",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg": "0.0.4",
+    "google": "^2.1.0",
+    "moment": "^2.24.0",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.1.1",
+    "twitch-irc": "^1.2.7",
+    "ytdl-core": "^0.29.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BillyHorler",
+  "license": "ISC"
+}

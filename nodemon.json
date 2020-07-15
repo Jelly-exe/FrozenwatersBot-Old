@@ -1,0 +1,3 @@
+{
+    "ignore": ["config-files/applications.json", "permissions/*", "punishments/*", "config-files/swearList.json", "reactions/*", "Eco-XP/*"]
+}

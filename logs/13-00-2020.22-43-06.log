@@ -1,0 +1,11 @@
+[ leeksLazyLogger by Eartharoid ] Log File (13/00/2020) -->
+[INFO | 22:43:06] 1: Attempting to load the event 'guildMemberAdd'
+[INFO | 22:43:06] 2: Attempting to load the event 'guildMemberRemove'
+[INFO | 22:43:06] 3: Attempting to load the event 'message'
+[INFO | 22:43:06] 4: Attempting to load the event 'ready'
+[INFO | 22:43:06] 5: Attempting to load the command 'about.js'
+[INFO | 22:43:06] 6: Attempting to load the command 'accept.js'
+[INFO | 22:43:06] 7: Attempting to load the command 'announce.js'
+[INFO | 22:43:06] 8: Attempting to load the command 'apply.js'
+[INFO | 22:43:06] 9: Attempting to load the command 'bal.js'
+[INFO | 22:43:06] 10: Attempting to load the command 'changelog.js'

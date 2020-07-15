@@ -1,0 +1,32 @@
+[ leeksLazyLogger by Eartharoid ] Log File (08/00/2020) -->
+[INFO | 17:30:02] 1: Attempting to load the event 'guildMemberAdd'
+[INFO | 17:30:02] 2: Attempting to load the event 'guildMemberRemove'
+[INFO | 17:30:02] 3: Attempting to load the event 'message'
+[INFO | 17:30:02] 4: Attempting to load the event 'ready'
+[INFO | 17:30:02] 5: Attempting to load the command 'about.js'
+[INFO | 17:30:02] 6: Attempting to load the command 'accept.js'
+[INFO | 17:30:02] 7: Attempting to load the command 'announce.js'
+[INFO | 17:30:02] 8: Attempting to load the command 'apply.js'
+[INFO | 17:30:02] 9: Attempting to load the command 'bal.js'
+[INFO | 17:30:02] 10: Attempting to load the command 'deny.js'
+[INFO | 17:30:02] 11: Attempting to load the command 'help.js'
+[INFO | 17:30:02] 12: Attempting to load the command 'history.js'
+[INFO | 17:30:02] 13: Attempting to load the command 'ip.js'
+[INFO | 17:30:02] 14: Attempting to load the command 'listpermissions.js'
+[INFO | 17:30:02] 15: Attempting to load the command 'mcstats.js'
+[INFO | 17:30:02] 16: Attempting to load the command 'permissions.js'
+[INFO | 17:30:02] 17: Attempting to load the command 'ping.js'
+[INFO | 17:30:02] 18: Attempting to load the command 'poll.js'
+[INFO | 17:30:02] 19: Attempting to load the command 'remind.js'
+[INFO | 17:30:02] 20: Attempting to load the command 'rps.js'
+[INFO | 17:30:02] 21: Attempting to load the command 'status.js'
+[INFO | 17:30:02] 22: Attempting to load the command 'suggest.js'
+[INFO | 17:30:02] 23: Attempting to load the command 'swear.js'
+[INFO | 17:30:02] 24: Attempting to load the command 'test.js'
+[INFO | 17:30:02] 25: Attempting to load the command 'toggle.js'
+[INFO | 17:30:02] 26: Attempting to load the command 'warn.js'
+[INFO | 17:30:02] Successfully loaded all commands.
+[INFO | 17:30:02] FrozenWaters [v2.0] is now connected!
+[INFO | 17:30:02] You are running version 2.0!
+[INFO | 17:30:02] 160 Users Online!
+[INFO | 17:30:02] 2 Guilds!

@@ -1,0 +1,35 @@
+{
+  "token": "NjA4NDY1NjI3MTY5OTQ3NjY4.XUyotw.4KhlVmVqv0xmxkhOGt3WpcoXQKE",
+  "prefix": "-",
+  "version": "2.0",
+  "colour": "0x07d800",
+  "footer": "Frozenwaters v2.0 | www.frozenwaters.xyz",
+  "footerImage": "https://i.imgur.com/lGOdbRi.png",
+
+  "channels": {
+    "announcements": "623603722974527488",
+    "staffChat": "527936742855147544",
+    "welcome": "528332578101657621",
+    "suggestions": "623605243187298334",
+    "polls": "623603905934131200",
+    "settings": "596269796044046336"
+  },
+
+  "categories": {
+    "tickets": "541287373342769152",
+    "applications": "612617442539077652"
+  },
+
+    "roles": {
+      "alerts": "612588579524313100",
+      "giveaways": "612588732901621761",
+      "polls": "612588489887973403",
+
+      "applications": "614337032273133568",
+      "tickets": "role id",
+
+      "HeadDeveloper": "545352688003710978",
+      "HeadConfigurator": "579002159060877324",
+      "HeadBuilder": "528346102886432803"
+  }
+}

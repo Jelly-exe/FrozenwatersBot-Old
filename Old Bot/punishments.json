@@ -1,0 +1,55 @@
+{
+  "272178929572511744": {
+    "warns": 2,
+    "warnreason": [
+      "Warning #1",
+      "Warning idk"
+    ],
+    "warnmod": [
+      "287874798049165313",
+      "287874798049165313"
+    ],
+    "warndate": [
+      "8/3/2019",
+      "8/3/2019"
+    ],
+    "bans": [],
+    "banmod": [],
+    "bandate": [],
+    "banreason": [],
+    "kicks": [],
+    "kickmod": [],
+    "kickdate": [],
+    "kickreason": [],
+    "mutes": [],
+    "mutemod": [],
+    "mutedate": [],
+    "mutereason": []
+  },
+  "319467558166069248": {
+    "warns": [
+      0
+    ],
+    "warnreason": [],
+    "warnmod": [],
+    "warndate": [],
+    "bans": [],
+    "banmod": [],
+    "bandate": [],
+    "banreason": [],
+    "kicks": 1,
+    "kickmod": [
+      "278548721778688010"
+    ],
+    "kickdate": [
+      "17/5/2019"
+    ],
+    "kickreason": [
+      "I wonder if this works <:Thonk:520677771979259917>"
+    ],
+    "mutes": [],
+    "mutemod": [],
+    "mutedate": [],
+    "mutereason": []
+  }
+}
