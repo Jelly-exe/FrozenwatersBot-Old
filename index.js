@@ -5,7 +5,7 @@ const fs = require("fs");
 const log = require('leekslazylogger')
 
 const config = require("./config-files/main.json");
-const token = require("token.json");
+const token = require("./token.json");
 const swear = require("./config-files/swearList.json");
 
 // function createRegex(word) {
