@@ -26,7 +26,6 @@ const swear = require("./config-files/swearList.json");
 //   }
 //   return x;
 // }
-
 // Create Discord client
 const client = new Discord.Client();
 client.config = config;
